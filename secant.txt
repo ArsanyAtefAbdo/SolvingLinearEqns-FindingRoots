@@ -1,0 +1,4 @@
+exp(-x)-x
+secant
+0 1
+30

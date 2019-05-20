@@ -1,0 +1,4 @@
+exp(-x)-x
+General Algorithm(Steffensen)
+0
+30

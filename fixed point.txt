@@ -1,0 +1,4 @@
+exp(-x)-x
+fixed point
+0
+10

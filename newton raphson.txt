@@ -1,0 +1,4 @@
+exp(-x)-x
+newton raphson
+0
+0.00001
